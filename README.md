@@ -17,7 +17,7 @@ uv run python img2block.py image.png --lines 40 --contrast 2.5
 **arguments:**
 - `image`: path to image file (png, jpg, etc)
 - `--lines`: output height in character lines (default: 40)
-- `--contrast`: contrast boost strength (default: 2.5, range: 0.1-5.0). negative values will invert the image
+- `--contrast`: contrast boost strength (default: 2.5, standard range: 0.1-10.0). negative values will invert the image
 
 ## how it works
 
