@@ -1,0 +1,13 @@
+[project]
+name = "img2block"
+author = "Caspar Broekhuizen <caspar@langchain.dev>"
+version = "0.1.0"
+description = "convert images to unicode block characters"
+requires-python = ">=3.8"
+dependencies = [
+    "pillow>=10.0.0",
+    "numpy>=1.20.0",
+]
+
+[project.scripts]
+img2block = "img2block:main"

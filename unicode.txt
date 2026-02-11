@@ -1,0 +1,53 @@
+
+Block Elements
+
+Block elements
+2580	 ▀ 	Upper Half Block
+2581	 ▁ 	Lower One Eighth Block
+2582	 ▂ 	Lower One Quarter Block
+2583	 ▃ 	Lower Three Eighths Block
+2584	 ▄ 	Lower Half Block
+2585	 ▅ 	Lower Five Eighths Block
+2586	 ▆ 	Lower Three Quarters Block
+2587	 ▇ 	Lower Seven Eighths Block
+2588	 █ 	Full Block
+ 	 	=	solid
+ 	 	→	25A0 ■ black square
+2589	 ▉ 	Left Seven Eighths Block
+258A	 ▊ 	Left Three Quarters Block
+258B	 ▋ 	Left Five Eighths Block
+258C	 ▌ 	Left Half Block
+258D	 ▍ 	Left Three Eighths Block
+258E	 ▎ 	Left One Quarter Block
+258F	 ▏ 	Left One Eighth Block
+2590	 ▐ 	Right Half Block
+Shade characters
+2591	 ░ 	Light Shade
+ 	 	•	25%
+2592	 ▒ 	Medium Shade
+ 	 	=	speckles fill, dotted fill
+ 	 	•	50%
+ 	 	•	used in mapping to cp949
+ 	 	→	1FB90 🮐 inverse medium shade
+2593	 ▓ 	Dark Shade
+ 	 	•	75%
+Block elements
+2594	 ▔ 	Upper One Eighth Block
+2595	 ▕ 	Right One Eighth Block
+Terminal graphic characters
+2596	 ▖ 	Quadrant Lower Left
+2597	 ▗ 	Quadrant Lower Right
+2598	 ▘ 	Quadrant Upper Left
+2599	 ▙ 	Quadrant Upper Left And Lower Left And Lower Right
+259A	 ▚ 	Quadrant Upper Left And Lower Right
+ 	 	→	1F67F 🙿 reverse checker board
+ 	 	→	1FB95 🮕 checker board fill
+259B	 ▛ 	Quadrant Upper Left And Upper Right And Lower Left
+259C	 ▜ 	Quadrant Upper Left And Upper Right And Lower Right
+259D	 ▝ 	Quadrant Upper Right
+259E	 ▞ 	Quadrant Upper Right And Lower Left
+ 	 	→	1F67E 🙾 checker board
+ 	 	→	1FB96 🮖 inverse checker board fill
+259F	 ▟ 	Quadrant Upper Right And Lower Left And Lower Right
+
+© 2003–2025 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc., in the U.S. and other countries. For terms of use and license, see https://www.unicode.org/terms_of_use.html.
