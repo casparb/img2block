@@ -1,5 +1,9 @@
-# img2block
-
+```
+▗        ▞▀▖▌  ▜       ▌  
+▄ ▛▚▀▖▞▀▌ ▗▘▛▀▖▐ ▞▀▖▞▀▖▌▗▘
+▐ ▌▐ ▌▚▄▌▗▘ ▌ ▌▐ ▌ ▌▌ ▖▛▚ 
+▀▘▘▝ ▘▗▄▘▀▀▘▀▀  ▘▝▀ ▝▀ ▘ ▘                             
+```
 convert images to unicode block characters using quadrant best-fit matching
 
 ## installation
